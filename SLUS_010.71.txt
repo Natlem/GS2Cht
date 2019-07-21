@@ -1,0 +1,80 @@
+
+[Max Hp Hiro]
+8008423E 03E7
+[Infinite Hp Hiro]
+8008423C 03E7
+[Max Mp Hiro]
+80084242 03E7
+[Infinite Mp Hiro]
+80084240 03E7
+[Infinite Hp Gwyn]
+80084610 03E7
+[Infinite Mp Gwyn]
+80084614 03E7
+[Max Hp Ronfar]
+80084302 03E7
+[Infinite Hp Ronfar]
+80084300 03E7
+[Max Mp Ronfar]
+80084306 03E7
+[Infinite Mp Ronfar]
+80084304 03E7
+[Max Hp Jean]
+800843C6 03E7
+[Infinite Hp Jean]
+800843C4 03E7
+[Max Mp Jean]
+800843CA 03E7
+[Infinite Mp Jean]
+800843C8 03E7
+[Mah Hp Lemina]
+8008454E 03E7
+[Infinite Hp Lemina]
+8008454C 03E7
+[Max Mp Lemina]
+80084552 03E7
+[Infinite Mp Lemina]
+80084550 03E7
+[Max Hp Leo/Mystere]
+8008448A 03E7
+[Infinite Hp Leo/Mystere]
+80084488 03E7
+[Max Mp Leo/Mystere]
+8008448E 03E7
+[Infinite Mp Leo/Mystere]
+8008448C 03E7
+[Mah Hp Lucia]
+800846D6 03E7
+[Infinite Hp Lucia]
+800846D4 03E7
+[Max Mp Lucia]
+800846DA 03E7
+[Infinite Mp Lucia]
+800846D8 03E7
+[Infinite Money		]
+8008A7BC FFFF
+[No Random Battles		]
+D008B1B8 0102
+80007800 0000
+D008B1B8 0108
+80007800 4D43
+D0007800 4D43
+8008B288 000C
+[Rememerizer Crystal Has All Events (Epilogue)	]
+80175BC0 FFFF
+80175BC2 FFFF
+80175BC4 FFFF
+80175BC6 FFFF
+
+[1 Exp To Next Level]
+8008460C 0001
+8008460E 0000
+
+[Exp modifier x2]
+80084608 0002
+
+[Exp modifier x4]
+80084608 0004
+
+[Exp modifier x8]
+80084608 0008
